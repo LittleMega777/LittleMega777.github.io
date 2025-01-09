@@ -194,21 +194,25 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1324px;
+    min-height: 2039px;
   }
 
   .u-section-1 .u-text-1 {
-    width: 340px;
+    width: auto;
     font-size: 1.875rem;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-text-2 {
-    width: 340px;
-    margin-top: -62px;
+    width: auto;
+    margin-top: 20px;
     margin-right: 0;
   }
 
   .u-section-1 .u-layout-wrap-1 {
+    margin-top: 35px;
     min-height: 472px;
     width: auto;
   }
